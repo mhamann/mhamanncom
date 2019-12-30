@@ -5,7 +5,7 @@
   "header": {
     "title": "Matt Hamann",
     "tagline": "Musings from here to there",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/logo.svg",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
