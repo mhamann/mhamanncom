@@ -12,10 +12,10 @@ sections:
         url: /contact
     component: ContentBlock
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      As a software engineer, I focus first on user experience and overall
+      product development. I get the "big picture" when it comes to building
+      products and designing systems. Want to learn more? Check out the [about
+      page.](/about)
     section_id: about
     title: About
     type: contentblock
