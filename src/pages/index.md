@@ -4,7 +4,7 @@ sections:
   - component: HeroBlock
     content: >-
       I'm a software engineer, technologist, and entrepreneur in North Carolina,
-      USA. I also dabble in photography.
+      USA. I'm also a hobbyist photographer.
     section_id: hero
     type: heroblock
   - actions:
