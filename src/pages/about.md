@@ -8,13 +8,14 @@ menus:
     weight: 4
 template: page
 ---
+**Matt Hamann** is a software engineer and technologist with more than ten years of experience. After graduating from Bob Jones University with a B.S. in Information Systems Management, he continued his education at Carnegie Mellon University, receiving a Masters degree in the same field.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Throughout his career, Matt has worked for both small businesses and Fortune 50 companies.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+### Hobbies
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+In addition to all of the technical stuff, I’m a competent musician, able to play piano and trombone. I listen to an eclectic variety of music, but have a passion for most anything traditionally classical. I’m an avid reader of just about anything.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+### Disclaimer
 
-*Thank You for reading!*
+The views and opinions expressed on this blog or anywhere else within my domain and websites are by no means representative of the opinions of my employers and/or clients. They are mine, and mine alone, blah, blah, blah.
