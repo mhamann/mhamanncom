@@ -16,8 +16,8 @@ Matt firmly believes that teams do their best work when they understand their [w
 
 ### Hobbies
 
-In addition to all of the technical stuff, I’m a competent musician, able to play piano and trombone. I listen to an eclectic variety of music, but have a passion for most anything traditionally classical. I’m an avid reader of just about anything.
+Matt is a competent musician, able to play piano, organ, and trombone. He appreciates an eclectic variety of music, but has a passion for most anything traditionally classical or crossover. He's also an avid reader of just about anything.
 
-### Disclaimer
+### Getting in touch
 
-The views and opinions expressed on this blog or anywhere else within my domain and websites are by no means representative of the opinions of my employers and/or clients. They are mine, and mine alone, blah, blah, blah.
+To get in touch with Matt, use the [contact page](/contact) or find him at the social media links in the sidebar. For an up-to-date resume, see [LinkedIn](https://linkedin.com/in/matthamann) or request one via the contact page.
