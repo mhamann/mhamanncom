@@ -24,6 +24,7 @@ module.exports = {
                 plugins: [`gatsby-remark-component`]
             }
         },
+        'gatsby-plugin-draft',
         {
             resolve: `gatsby-remark-page-creator`,
             options: {

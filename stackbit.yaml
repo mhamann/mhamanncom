@@ -336,6 +336,12 @@ models:
     template: page
     exclude: posts/**
     fields:
+      - type: boolean
+        name: draft
+        label: Draft
+        description: Should this page be kept as a working draft (i.e. not published)
+        required: false
+        default: false
       - type: string
         name: title
         label: Title
@@ -359,6 +365,12 @@ models:
     template: post
     folder: posts
     fields:
+      - type: boolean
+        name: draft
+        label: Draft
+        description: Should this page be kept as a working draft (i.e. not published)
+        required: false
+        default: false
       - type: string
         name: title
         label: Title
