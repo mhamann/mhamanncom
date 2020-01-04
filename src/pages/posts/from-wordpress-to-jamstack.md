@@ -13,4 +13,4 @@ Given all of that (and the fact that I rarely applied WordPress updates), the so
 
 JAMstack is still in the early adopter phase to some degree. There are some great frameworks (Gatsby, Hugo, and Jekyll to name a few popular ones) out there for building static sites, but the tools surrounding them are still pretty rough. The authoring and site management experience pales greatly in comparison to WordPress, and there are a lot fewer "batteries included" options (e.g. form handling).
 
-Even so, several offerings are evolving rapidly. Netlify (which hosts this site) and Stackbit are definitely making it easier than ever to get up and running with a JAMstack site. Netlify has even championed a CMS project/service for authoring and managing site content. Again--the experience is a bit rough, but it works passably.
+Even so, several offerings are evolving rapidly. Netlify (which hosts this site) and Stackbit are definitely making it easier than ever to get up and running with a JAMstack site. Netlify has even championed a CMS project/service for authoring and managing site content. Again--the experience is a bit rough, but it works well enough.
