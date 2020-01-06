@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Who am I and what do I do? Read on...
-img_path: images/about.jpg
+img_path: ''
 menus:
   main:
     title: About
@@ -16,7 +16,7 @@ Matt firmly believes that teams do their best work when they understand their [w
 
 ### Hobbies
 
-Matt is a competent musician, able to play piano, organ, and trombone. He appreciates an eclectic variety of music, but has a passion for most anything traditionally classical or crossover. He's also an avid reader of just about anything.
+Matt is a competent musician, able to play piano, organ, and trombone. He appreciates an eclectic variety of music, but has a passion for most anything traditionally classical or crossover. He's also an avid reader of fiction, non-fiction, and periodicals.
 
 ### Getting in touch
 
