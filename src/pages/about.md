@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Who am I and what do I do? Read on...
-img_path: images/about.jpg
+img_path: ''
 menus:
   main:
     title: About
