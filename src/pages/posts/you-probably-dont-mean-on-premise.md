@@ -3,7 +3,7 @@ title: You probably don't mean "on-premise"
 subtitle: ""
 date: 2020-09-01T16:03:42.261Z
 thumb_img_path: /images/ian-battaglia-9drs5e_rguc-unsplash.jpg
-content_img_path: /images/ian-battaglia-9drs5e_rguc-unsplash.jpg
+content_img_path: /images/ian-battaglia-9drs5e_rguc-unsplash-wide.jpg
 excerpt: It's time to correct a pattern of egregious English language violations
   by folks in technology.
 template: post
