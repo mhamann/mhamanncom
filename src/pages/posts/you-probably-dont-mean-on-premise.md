@@ -3,6 +3,8 @@ title: You probably don't mean "on-premise"
 subtitle: ""
 date: 2020-09-01T16:03:42.261Z
 thumb_img_path: /images/ian-battaglia-9drs5e_rguc-unsplash.jpg
+excerpt: It's time to correct a pattern of egregious English language violations
+  by folks in technology.
 template: post
 ---
 As more and more software moves into "the cloud," a differentiation needs to be made between things that are deployed in a datacenter managed by Amazon or Google and those deployed within an organization's own data center, behind its own firewalls and network appliances.
@@ -19,6 +21,6 @@ The term you're *actually* looking for is **on-premises** (notice the extra "s" 
 
 Your company might have a *premises* for its headquarters, or for a datacenter, and so on. On the other hand, your company is probably founded on a *premise*, which is why you exist.
 
-So, next time you're thinking about your data centers, remember--they're **on the premises** and should be referred to as "on-premises**."** Using the wrong word might just make you look poorly educated. ;-)
+So, next time you're thinking about your data centers, remember--they're **on the premises** and should be referred to as "on-premises**"** or "on-prem" (the shorter version works too!). Using the wrong word might just make you look poorly educated. ;-)
 
-I and your grammar-caring colleagues will thank you.
+I and your grammar-loving colleagues will thank you.
