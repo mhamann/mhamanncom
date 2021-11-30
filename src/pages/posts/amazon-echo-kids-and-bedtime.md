@@ -2,6 +2,7 @@
 title: Amazon Echo, Kids, and Bedtime
 subtitle: It almost works, but not quite...
 date: 2021-11-30T02:06:55.339Z
+thumb_img_path: /images/amazon-echo-kids.png
 template: post
 ---
 Amazon's Echo ecosystem is a pretty nifty thing to have around the house. From today's weather, sunrise/sunset info, and Amazon Music, it's a tool that both adults and kids use daily.
