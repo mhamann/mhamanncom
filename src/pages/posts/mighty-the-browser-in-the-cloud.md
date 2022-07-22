@@ -1,10 +1,10 @@
 ---
 title: Mighty - the browser in the cloud
-subtitle: But is it worth the cost?
+subtitle: But is it worth the price?
 date: 2022-07-22T02:58:55.273Z
 template: post
 ---
-For the past few days, I've been evaluating Mighty, a Chromium-based web browser that runs in the cloud and streams the actual content back to your computer. Traditionally, we'd call this a "thin client"—in other words, it doesn't do any of the processing locally.
+For the past few days, I've been evaluating [Mighty](https://mightyapp.com), a Chromium-based web browser that runs in the cloud and streams the actual content back to your computer. Traditionally, we'd call this a "thin client"—in other words, it doesn't do any of the processing locally.
 
 For me, the allure of Mighty was the ability to shut down Chrome and regain gigabytes worth of RAM. My machine only has 16GB of memory and Chrome can consume just about all of it depending on the number of open tabs and how long they've been left that way. That's not to mention the other RAM-hungry apps I use for work on a daily basis, all fighting over the same few available gigabytes. Mighty solved this, using only about 1GB of RAM in total even with dozens of open tabs.
 
