@@ -2,6 +2,7 @@
 title: Mighty - the browser in the cloud
 subtitle: But is it worth the price?
 date: 2022-07-22T02:58:55.273Z
+thumb_img_path: /images/mighty-copy.jpg
 template: post
 ---
 For the past few days, I've been evaluating [Mighty](https://mightyapp.com), a Chromium-based web browser that runs in the cloud and streams the actual content back to your computer. Traditionally, we'd call this a "thin client"—in other words, it doesn't do any of the processing locally.
